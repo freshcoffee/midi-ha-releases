@@ -4,47 +4,34 @@ Copyright © 2026 Hyunwoo Jo. All rights reserved.
 
 This End User License Agreement ("Agreement") is a legal agreement between you
 (an individual or a single organization, "you") and Hyunwoo Jo ("the Author")
-governing your use of the MIDI-HA Bridge software application, including
-its binaries, assets, and accompanying documentation (the "Software").
+governing your use of the MIDI-HA Bridge software application, including its
+binaries, assets, and accompanying documentation (the "Software").
 
 By downloading, installing, or using the Software, you agree to be bound by the
-terms of this Agreement. If you do not agree, do not install or use the
-Software.
+terms of this Agreement. If you do not agree, do not install or use the Software.
 
 --------------------------------------------------------------------------------
 1. OWNERSHIP
 --------------------------------------------------------------------------------
 The Software is licensed, not sold. The Author retains all right, title, and
 interest in and to the Software, including all intellectual property rights.
-The name "MIDI-HA Bridge" and all associated logos and icons are the
-property of the Author. No rights are granted except as expressly set out in
-this Agreement.
+The name "MIDI-HA Bridge" and all associated logos and icons are the property
+of the Author. No rights are granted except as expressly set out in this
+Agreement.
 
 --------------------------------------------------------------------------------
-2. FREE USE LICENSE (PERSONAL / SINGLE-INSTANCE)
+2. LICENSE TO USE
 --------------------------------------------------------------------------------
-Subject to the terms of this Agreement, the Author grants you a free,
-non-exclusive, non-transferable, revocable license to download, install, and
-use the Software at no charge, PROVIDED THAT your use is limited to operating or
-monitoring a SINGLE Home Assistant instance within a given local network or
-physical site.
+Subject to the terms of this Agreement, the Author grants you a non-exclusive,
+non-transferable, revocable license to download, install, and use the Software
+free of charge, for personal or commercial purposes.
 
-This free tier is intended for personal, non-commercial, single-deployment use.
-
---------------------------------------------------------------------------------
-3. PAID LICENSE (MULTI-INSTANCE / COMMERCIAL)
---------------------------------------------------------------------------------
-A valid paid license or active subscription is REQUIRED if you use the Software
-to operate or monitor TWO OR MORE Home Assistant instances within the same
-local network or physical site (for example, a building, campus, venue, or
-business with multiple controllers).
-
-Such multi-instance use without a valid paid license is not permitted under the
-free tier and constitutes a breach of this Agreement. Information on obtaining a
-paid license is available from the Author (www.sound4u.net / www.jotec.co).
+The Author may from time to time offer optional paid components, add-ons, or
+services. Any such offering, if made, will be licensed separately and does not
+affect your license to the Software as provided to you under this Agreement.
 
 --------------------------------------------------------------------------------
-4. RESTRICTIONS
+3. RESTRICTIONS
 --------------------------------------------------------------------------------
 Except as expressly permitted by this Agreement or by applicable law, you may
 NOT:
@@ -53,15 +40,15 @@ NOT:
       the source code of the Software, except to the limited extent such
       restriction is expressly prohibited by applicable law;
   (b) modify, adapt, translate, or create derivative works of the Software;
-  (c) remove, disable, circumvent, or tamper with any licensing, instance-
-      detection, or notification mechanism in the Software;
+  (c) remove, disable, obscure, or tamper with any copyright, trademark,
+      attribution, update, or notification notices or mechanisms in the Software;
   (d) sell, rent, lease, sublicense, distribute, or redistribute the Software,
       whether modified or unmodified, in whole or in part;
   (e) use the Software in any unlawful manner or in violation of any applicable
       law or regulation.
 
 --------------------------------------------------------------------------------
-5. THIRD-PARTY COMPONENTS
+4. THIRD-PARTY COMPONENTS
 --------------------------------------------------------------------------------
 The Software incorporates third-party open-source components, each of which is
 provided under its own license. Those components are not subject to this
@@ -71,17 +58,17 @@ Nothing in this Agreement limits any rights granted to you under those
 third-party licenses with respect to those components.
 
 --------------------------------------------------------------------------------
-6. NO WARRANTY
+5. NO WARRANTY
 --------------------------------------------------------------------------------
 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
 KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE
 AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE, OR
-SECURE, OR THAT IT WILL OPERATE CORRECTLY WITH ANY PARTICULAR HARDWARE,
-HOME ASSISTANT CONFIGURATION, OR THIRD-PARTY SOFTWARE.
+SECURE, OR THAT IT WILL OPERATE CORRECTLY WITH ANY PARTICULAR HARDWARE, HOME
+ASSISTANT CONFIGURATION, OR THIRD-PARTY SOFTWARE.
 
 --------------------------------------------------------------------------------
-7. LIMITATION OF LIABILITY
+6. LIMITATION OF LIABILITY
 --------------------------------------------------------------------------------
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHOR
 BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
@@ -90,19 +77,19 @@ OR BUSINESS INTERRUPTION) ARISING IN ANY WAY OUT OF THE USE OR INABILITY TO USE
 THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 Because the Software may control physical devices (such as lighting), you are
-solely responsible for ensuring safe operation and appropriate fallbacks in
-any environment where failure could cause inconvenience, loss, or harm.
+solely responsible for ensuring safe operation and appropriate fallbacks in any
+environment where failure could cause inconvenience, loss, or harm.
 
 --------------------------------------------------------------------------------
-8. TERMINATION
+7. TERMINATION
 --------------------------------------------------------------------------------
 This Agreement is effective until terminated. It terminates automatically,
 without notice, if you breach any of its terms. Upon termination you must cease
 all use of the Software and destroy all copies in your possession. Sections 1,
-4, 6, 7, and 9 survive termination.
+3, 5, 6, and 8 survive termination.
 
 --------------------------------------------------------------------------------
-9. GENERAL
+8. GENERAL
 --------------------------------------------------------------------------------
 If any provision of this Agreement is held to be unenforceable, that provision
 will be limited or eliminated to the minimum extent necessary so that the
