@@ -16,7 +16,7 @@ and Ableton Live as a MIDI source.
 
 [![Download](https://img.shields.io/badge/⬇_Download-latest-2ea44f?style=for-the-badge)](https://github.com/freshcoffee/midi-ha-releases/releases)
 
-[![Latest release](https://img.shields.io/github/v/release/freshcoffee/midi-ha-releases?label=version)](https://github.com/freshcoffee/midi-ha-releases/releases)
+[![Version](https://img.shields.io/badge/version-1.4.0-2ea44f)](https://github.com/freshcoffee/midi-ha-releases/releases)
 [![Platform](https://img.shields.io/badge/platform-macOS_|_Windows-lightgrey)](https://github.com/freshcoffee/midi-ha-releases/releases)
 
 </div>
